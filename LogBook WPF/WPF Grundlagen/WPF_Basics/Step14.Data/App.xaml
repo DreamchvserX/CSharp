@@ -1,0 +1,17 @@
+﻿<Application 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:DataApplication"
+    x:Class="DataApplication.App"
+    StartupUri="MainWindow.xaml">
+    
+    <Application.Resources>
+        <Style x:Key="ListBoxAlternateItemStyle" TargetType="{x:Type ListBoxItem}">
+            <Setter Property="Background" Value="#DEDEDE" />
+        </Style>
+        
+        <local:StringRangeValidationRule x:Key="StringRangeValidationRule" />
+        <local:AlternatingStyleSelector x:Key="AlternatingStyleSelector"
+            AlternateItemStyle="{StaticResource ListBoxAlternateItemStyle}" />
+    </Application.Resources>
+</Application>

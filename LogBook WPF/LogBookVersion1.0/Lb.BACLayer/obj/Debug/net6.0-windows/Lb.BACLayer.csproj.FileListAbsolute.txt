@@ -1,0 +1,15 @@
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\bin\Debug\net6.0-windows\Lb.BACLayer.deps.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\bin\Debug\net6.0-windows\Lb.BACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\bin\Debug\net6.0-windows\Lb.BACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\bin\Debug\net6.0-windows\Lb.DACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\bin\Debug\net6.0-windows\Lb.DACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.AssemblyInfo.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.csproj.CopyComplete
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\refint\Lb.BACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\Lb.BACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BACLayer\obj\Debug\net6.0-windows\ref\Lb.BACLayer.dll

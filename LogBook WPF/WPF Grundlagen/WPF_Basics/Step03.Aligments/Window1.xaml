@@ -1,0 +1,73 @@
+﻿<Window 
+    x:Class="WPF.Alignments.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="240" Width="600">
+    
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        
+        <Button Content="Left / Top"
+            Grid.Column="0" Grid.Row="0"
+            HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button Content="Center / Top"
+            Grid.Column="1" Grid.Row="0"
+            HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Button Content="Right / Top"
+            Grid.Column="2" Grid.Row="0"
+            HorizontalAlignment="Right" VerticalAlignment="Top" />
+        <Button Content="Stretch / Top"
+            Grid.Column="3" Grid.Row="0"
+            HorizontalAlignment="Stretch" VerticalAlignment="Top" />
+
+        <Button Content="Left / Center"
+            Grid.Column="0" Grid.Row="1"
+            HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Button Content="Center / Center"
+            Grid.Column="1" Grid.Row="1"
+            HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Button Content="Right / Center"
+            Grid.Column="2" Grid.Row="1"
+            HorizontalAlignment="Right" VerticalAlignment="Center" />
+        <Button Content="Stretch / Center"
+            Grid.Column="3" Grid.Row="1"
+            HorizontalAlignment="Stretch" VerticalAlignment="Center" />
+
+        <Button Content="Left / Bottom"
+            Grid.Column="0" Grid.Row="2"
+            HorizontalAlignment="Left" VerticalAlignment="Bottom" />
+        <Button Content="Center / Bottom"
+            Grid.Column="1" Grid.Row="2"
+            HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+        <Button Content="Right / Bottom"
+            Grid.Column="2" Grid.Row="2"
+            HorizontalAlignment="Right" VerticalAlignment="Bottom" />
+        <Button Content="Stretch / Bottom"
+            Grid.Column="3" Grid.Row="2"
+            HorizontalAlignment="Stretch" VerticalAlignment="Bottom" />
+
+        <Button Content="Left / Stretch"
+            Grid.Column="0" Grid.Row="3"
+            HorizontalAlignment="Left" VerticalAlignment="Stretch" />
+        <Button Content="Center / Stretch"
+            Grid.Column="1" Grid.Row="3"
+            HorizontalAlignment="Center" VerticalAlignment="Stretch" />
+        <Button Content="Right / Stretch"
+            Grid.Column="2" Grid.Row="3"
+            HorizontalAlignment="Right" VerticalAlignment="Stretch" />
+        <Button Content="Stretch / Stretch"
+            Grid.Column="3" Grid.Row="3"
+            HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="Button_Click" />
+    </Grid>
+</Window>

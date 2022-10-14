@@ -1,0 +1,17 @@
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.BELayer.deps.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.BELayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.BELayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.BACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.DACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.BACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\bin\Debug\net6.0-windows\Lb.DACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.AssemblyInfo.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.csproj.CopyComplete
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\refint\Lb.BELayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\Lb.BELayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.BELayer\obj\Debug\net6.0-windows\ref\Lb.BELayer.dll

@@ -1,0 +1,40 @@
+﻿<Window 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="NavigationApplication.MainWindow"
+    Title="Bike Vision Browser" Height="300" Width="600">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" IsMainMenu="True">
+            <MenuItem Header="Programm" />
+            <MenuItem Header="Bearbeiten" />
+            <MenuItem Header="Ansicht" />
+            <MenuItem Header="Hilfe" />
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem Content="Ready" />
+        </StatusBar>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="175" />
+                <ColumnDefinition Width="106*" />
+                <ColumnDefinition Width="319*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*" />
+                <RowDefinition Height="1*" MinHeight="75" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" Background="#CCCCFF">
+                <GroupBox Header="Assistent" Padding="4" BorderBrush="Black" Margin="6 12">
+                    <StackPanel>
+                        <TextBlock TextWrapping="Wrap">Das hier ist die Haupt-Navigation</TextBlock>
+                        <Button Margin="0,6,0,0">Neue Daten generieren</Button>
+                    </StackPanel>
+                </GroupBox>
+            </Grid>
+
+            <Frame x:Name="Frame1" Grid.Column="1" Grid.Row="0" Source="WelcomePage.xaml" Grid.ColumnSpan="2" Navigated="Frame1_Navigated" />
+            <Frame x:Name="Frame2" Grid.Column="1" Source="DetailPage.xaml" Grid.ColumnSpan="2" Margin="0,169,0,0" Grid.RowSpan="2" Navigated="Frame2_Navigated" />
+        </Grid>
+    </DockPanel>
+</Window>

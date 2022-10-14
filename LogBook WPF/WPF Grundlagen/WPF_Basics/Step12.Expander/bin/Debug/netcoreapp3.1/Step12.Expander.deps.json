@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Step12.Expander/1.0.0": {
+        "runtime": {
+          "Step12.Expander.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Step12.Expander/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

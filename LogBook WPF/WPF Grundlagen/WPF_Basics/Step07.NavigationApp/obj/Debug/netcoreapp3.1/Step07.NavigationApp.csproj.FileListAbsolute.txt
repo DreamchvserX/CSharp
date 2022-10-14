@@ -1,0 +1,60 @@
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.exe
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.deps.json
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.runtimeconfig.json
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.dll
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.pdb
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\BasicBrushes.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\DetailPage.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\HelpPage.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\NavWindow.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\SelectionPage.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\WelcomePage.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\DetailPage.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\HelpPage.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\NavWindow.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\SelectionPage.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\WelcomePage.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp_MarkupCompile.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.g.resources
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.AssemblyInfo.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.dll
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.pdb
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.genruntimeconfig.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.exe
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.deps.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.runtimeconfig.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.runtimeconfig.dev.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\bin\Debug\netcoreapp3.1\Step07.NavigationApp.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\BasicBrushes.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\DetailPage.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\HelpPage.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\NavWindow.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\SelectionPage.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\WelcomePage.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\DetailPage.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\HelpPage.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\NavWindow.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\SelectionPage.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\WelcomePage.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp_MarkupCompile.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.g.resources
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.AssemblyInfo.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step07.NavigationApp\obj\Debug\netcoreapp3.1\Step07.NavigationApp.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+﻿<Window x:Class="Lb.Start.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lb.Start"
+        mc:Ignorable="d"
+        Title="Fahrtenbuch" Height="700" Width="1400">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" IsMainMenu="True" Background="#8762cc">
+            <Label HorizontalAlignment="Left" FontFamily="Webdings" Content="ACR"/>
+            <MenuItem Header="Ansicht"></MenuItem>
+            <MenuItem Header="Hilfe"></MenuItem>
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0" Grid.Row="0" Background="#a284db">
+                <Button Content="Fahrten" HorizontalAlignment="Center" Margin="0,75,0,0" VerticalAlignment="Top" Height="30" Width="100" Foreground="White" Background="#c0bbc9" FontFamily="Gadugi" Click="OpenFahrtenPage_Click"/>
+                <Button Content="Fahrer" HorizontalAlignment="Center" VerticalAlignment="Top" Height="30" Width="100"  Foreground="White" Background="#c0bbc9" FontFamily="Gadugi" Margin="0,150,0,0" Click="OpenFahrerPage_Click"/>
+                <Button Content="Fahrzeug" HorizontalAlignment="Center" VerticalAlignment="Top" Height="30" Width="100"  Foreground="White" Background="#c0bbc9" FontFamily="Gadugi" Margin="0,225,0,0" Click="OpenFahrzeugePage_Click"/>
+                <Button Content="Orte" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Height="30" Width="100"  Foreground="White" Background="#c0bbc9" FontFamily="Gadugi" Click="OpenOrtePage_Click"/>
+                <Button Content="Zwecke" HorizontalAlignment="Center" Margin="0,375,0,0" VerticalAlignment="Top" Height="30" Width="100"  Foreground="White" Background="#c0bbc9" FontFamily="Gadugi" Click="OpenZweckePage_Click"/>
+
+            </Grid>
+
+            <Grid Grid.Column="1" Grid.Row="0" Background="#8762cc">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="150*"/>
+                    <RowDefinition Height="10*"/>
+                </Grid.RowDefinitions>
+                <Frame x:Name="FrameMain" Grid.Column="0" Grid.Row="0" Source="FahrtenPage.xaml" Background="#d3c5ed" NavigationUIVisibility="Hidden"/>
+                <Button Content="Hinzufügen" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Center" Width="99" FontWeight="Bold"/>
+                <Button Content="Bearbeiten" HorizontalAlignment="Right" Margin="0,0,10,0" Grid.Row="1" VerticalAlignment="Center" Width="99" FontWeight="Bold"/>
+                <TextBox HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="280" TextChanged="TextBox_TextChanged" TextAlignment="Center"/>
+            </Grid>
+
+
+
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Step10.Toolfenster/1.0.0": {
+        "runtime": {
+          "Step10.Toolfenster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Step10.Toolfenster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

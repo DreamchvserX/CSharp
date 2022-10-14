@@ -1,0 +1,12 @@
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\bin\Debug\net6.0-windows\Lb.DACLayer.deps.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\bin\Debug\net6.0-windows\Lb.DACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\bin\Debug\net6.0-windows\Lb.DACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.AssemblyInfo.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\refint\Lb.DACLayer.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\Lb.DACLayer.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\LogBookVersion1.0\Lb.DACLayer\obj\Debug\net6.0-windows\ref\Lb.DACLayer.dll

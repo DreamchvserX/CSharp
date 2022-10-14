@@ -1,0 +1,41 @@
+﻿<Window x:Class="StylesApplication.StyleSharingWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="StyleSharingWindow" Height="100" Width="800">
+    <Window.Resources>
+        <Style x:Key="MyButtonStyle">
+            <Setter Property="Button.Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Offset="0.00" Color="White" />
+                        <GradientStop Offset="1.00" Color="Silver" />
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Button.BorderBrush" Value="Black" />
+            <Setter Property="Button.BorderThickness" Value="1" />
+            <Setter Property="Button.FontFamily" Value="Arial" />
+            <Setter Property="Button.FontSize" Value="13" />
+            <Setter Property="Button.Padding" Value="10 2 10 2" />
+            <Setter Property="Button.Margin" Value="2" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="0" Style="{StaticResource MyButtonStyle}" Content="Button" />
+        <ComboBox Grid.Column="1" Style="{StaticResource MyButtonStyle}" SelectedIndex="0">
+            <ComboBoxItem>ComboBox</ComboBoxItem>
+        </ComboBox>
+        <ListBox Grid.Column="2" Style="{StaticResource MyButtonStyle}" SelectedIndex="0">
+            <ListBoxItem>ListBox</ListBoxItem>
+        </ListBox>
+        <TextBox Grid.Column="3" Style="{StaticResource MyButtonStyle}" Text="TextBox" />
+        <Label Grid.Column="4" Style="{StaticResource MyButtonStyle}" Content="Label" />
+    </Grid>
+</Window>

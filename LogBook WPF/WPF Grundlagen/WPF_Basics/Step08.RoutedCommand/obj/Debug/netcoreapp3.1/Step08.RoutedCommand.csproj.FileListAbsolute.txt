@@ -1,0 +1,38 @@
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.exe
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.deps.json
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.runtimeconfig.json
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.dll
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.pdb
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand_MarkupCompile.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.g.resources
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.AssemblyInfo.cs
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.dll
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.pdb
+C:\Users\Developer\Desktop\WPF_Training_Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.genruntimeconfig.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.exe
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.deps.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.runtimeconfig.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.runtimeconfig.dev.json
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\bin\Debug\netcoreapp3.1\Step08.RoutedCommand.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand_MarkupCompile.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.g.resources
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.AssemblyInfo.cs
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.dll
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.pdb
+C:\Users\justi\Desktop\Office\School\C#\LogBook WPF\WPF Grundlagen\WPF_Basics\Step08.RoutedCommand\obj\Debug\netcoreapp3.1\Step08.RoutedCommand.genruntimeconfig.cache

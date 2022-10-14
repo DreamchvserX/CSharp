@@ -1,0 +1,22 @@
+﻿<Window x:Class="Step02.AbsolutePositionierung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Step02.AbsolutePositionierung"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="183*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox HorizontalAlignment="Left" Margin="90,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" Grid.Column="1" TextChanged="TextBox_TextChanged" Height="24"/>
+        <TextBox HorizontalAlignment="Left" Margin="90,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" Grid.Column="1" TextChanged="TextBox_TextChanged_1" Height="24"/>
+        <Label Content="Nachname" HorizontalAlignment="Left" Margin="2,65,0,0" VerticalAlignment="Top" Grid.Column="1" Height="35" Width="79"/>
+        <Label Grid.Column="1" Content="Vorname" HorizontalAlignment="Left" Margin="2,176,0,0" VerticalAlignment="Top" Height="34" Width="68"/>
+        <Button x:Name="Abbruch" Grid.Column="1" Content="Abbruch" HorizontalAlignment="Left" Margin="195,306,0,0" VerticalAlignment="Top" Height="27" Width="58" Click="Abbruch_Click"/>
+        <Button x:Name="Speichern" Grid.Column="1" Content="Speichern" HorizontalAlignment="Left" Margin="90,306,0,0" VerticalAlignment="Top" Height="27" Width="67"/>
+
+    </Grid>
+</Window>

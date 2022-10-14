@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Step04.DockPanel/1.0.0": {
+        "runtime": {
+          "Step04.DockPanel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Step04.DockPanel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

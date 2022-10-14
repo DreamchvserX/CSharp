@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPF.ListenAlternieren.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    
+    <Window.Resources>
+        <Style x:Key="AlternatingListBoxItemContainerStyle" TargetType="{x:Type ListBoxItem}">
+            <Style.Triggers>
+                <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                    <Setter Property="Background" Value="#FFFFFF" />
+                </Trigger>
+                <Trigger Property="ItemsControl.AlternationIndex" Value="2">
+                    <Setter Property="Background" Value="#E0E0FF" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        
+        <Style x:Key="AlternatingListBoxStyle" TargetType="{x:Type ListBox}">
+            <Setter Property="AlternationCount" Value="2" />
+            <Setter Property="ItemContainerStyle" Value="{StaticResource AlternatingListBoxItemContainerStyle}" />
+        </Style>
+    </Window.Resources>
+    
+    <Grid>
+        <ListBox Style="{StaticResource AlternatingListBoxStyle}">
+            <ListBoxItem>Eins</ListBoxItem>
+            <ListBoxItem>Zwei</ListBoxItem>
+            <ListBoxItem>Drei</ListBoxItem>
+            <ListBoxItem>Vier</ListBoxItem>
+            <ListBoxItem>Fünf</ListBoxItem>
+            <ListBoxItem>Sechs</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

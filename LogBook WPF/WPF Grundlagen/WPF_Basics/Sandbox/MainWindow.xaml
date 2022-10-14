@@ -1,0 +1,31 @@
+﻿<Window x:Class="Sandbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sandbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Button>Voller Unfug</Button>
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+            <Button>Neu</Button>
+            <Button>Öffnen</Button>
+            <Button>Speichern</Button>
+            </ToolBar>
+            
+        </ToolBarTray>
+        <Button>Halber Unfug</Button>
+
+        <StatusBar DockPanel.Dock="Bottom">Alles OK</StatusBar>
+
+        <Button DockPanel.Dock="Right">Kleiner Unfug</Button>
+        
+        <Grid>
+            <TextBox>Das ist der Inhalt</TextBox>
+        </Grid>
+        
+
+    </DockPanel>
+</Window>
